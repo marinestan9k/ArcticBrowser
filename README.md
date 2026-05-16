@@ -1,3 +1,6 @@
+> ![CAUTION]
+> This project is no longer maintained. Thanks to anyone (if ever) for using this theme.
+
 # ArcticBrowser - The most funny Firefox mod ever.
 
 ![Preview](Screenshot.png)
